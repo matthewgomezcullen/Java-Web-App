@@ -1,0 +1,102 @@
+body {
+  background-color: steelblue;
+}
+
+.card {
+  border-radius: 0;
+}
+
+.form-control {
+  border-radius: 0;
+}
+
+.header {
+  height: 100px;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  color: steelblue;
+}
+
+.container {
+  padding: 0;
+}
+
+.main {
+  display: flex;
+  padding: 0;
+  width: 80%;
+  position: relative;
+  height: auto;
+  top: 100px;
+}
+
+.indexes {
+  position: relative;
+  width: 20%;
+  top: 0;
+  float: left;
+}
+
+form {
+  margin: 0;
+}
+
+.deleteIndex {
+  margin-top: 20px;
+}
+
+.notes {
+  position: relative;
+  width: 80%;
+  top: 0;
+  float: right;
+}
+
+.noteTitle {
+  color: white;
+}
+
+.noteSubmit {
+  margin-top: 10px;
+}
+
+.card-title {
+  margin: 0;
+}
+
+.media {
+  display: block;
+  width: 100%;
+}
+
+.addNote {
+  display: inline;
+  float: left;
+  height: 100%;
+}
+
+.deleteNote {
+  display: block;
+  float: right;
+}
+
+.action {
+  margin: 1.25rem;
+}
+
+ul {
+  margin: 0;
+}
+
+.create {
+  width: 50%;
+}
+
+.createNote {
+  width: 100%;
+}
+
+.error {
+  color: red;
+}
